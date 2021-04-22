@@ -4,4 +4,4 @@ The aim of this project is to code a function that returns a line ending with a 
 Project subject:
 https://github.com/P10r10/get_next_line/blob/main/get_next_line_subject.pdf
 
-**Evaluated by Moulinette with 115%**
+**Evaluated by Moulinette with a score of 115%**
